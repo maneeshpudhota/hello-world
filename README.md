@@ -1,5 +1,5 @@
 # hello-world
-i'm Maneesh
+I'm Maneesh
 
 
-im a student from INDIA.
+I'm a student from INDIA.
